@@ -1,0 +1,108 @@
+.heading{
+    padding:0px;
+    margin:auto;
+    text-align: center;
+    border: 20px;
+    border:color-red;
+    height:50;
+    display:block;
+    background-color: rosybrown;
+    color:white;
+    width: 1500px;
+
+}
+.loan{
+    color: black;
+    border-radius: 4px;
+    border-color: red;
+}
+.amount{
+    
+    border-color: red; 
+
+    
+}
+.rate{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: black;
+    text-wrap: 20px;
+    margin-top: 20px;
+}
+.interest{
+    border-color: red; 
+    text-align: left;
+    
+
+}
+.time{
+    border:1%;
+    border-radius: 4px;
+
+}
+.net{
+    padding:0px;
+    margin:auto;
+    text-align: center;
+    border: 20px;
+    border:color-red;
+    max-height: 60px;
+    
+    display:block;
+    background-color: darkblue;
+    color:white;
+    margin-bottom: 10px;
+}
+.emi{
+text-align: center; 
+}
+.rs{
+    text-align:center;
+    margin-top: 20px;
+}
+.able{ text-align:center;
+
+}
+.pay{
+    text-align:center;
+}
+.nts{
+    text-align:center;
+}
+.erest{
+    text-align: center;
+}
+.btn{
+    margin: 0px;
+    color: blue;
+    background-color: aqua;
+    border-radius: 4px;
+    border-color: red;
+}
+.mo{
+    margin: 0px;
+    color: blue;
+    background-color: aqua;
+    border-radius: 4px;
+    border-color: red;
+}
+.break{
+    text-align: end;
+}
+.tal{
+text-align: end;
+}
+.tala{
+    text-align: end;
+}
+.culat{
+color: brown;
+background-color: rgb(43, 226, 107);
+border-color: red;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
